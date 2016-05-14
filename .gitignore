@@ -1,0 +1,7 @@
+.idea/
+*.iml
+
+*.swo
+*.swp
+
+.DS_Store
